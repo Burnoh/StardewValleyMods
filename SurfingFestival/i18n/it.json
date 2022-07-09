@@ -1,0 +1,141 @@
+{
+    /*********
+    ** Festival
+    *********/
+    // info
+    "festival.name": "Festival del Surf",
+
+    // race
+    "race.start.question": "Pronti per la gara?",
+    "race.start.yes": "Sì, cominciamo.",
+    "race.start.no": "Non ancora.",
+    "race.instructions": "Oggetti (click destro per usare):^ Potenziamento Stardrop - Temporaneo potenziamento alla velocità.^ Proiettile Pesce Palla - Lancia un pesce palla verso il giocatore davanti a te.^ Nuvola Segugio - Scossa per il giocatore in testa.^ Potere Junimo - Invincibilità e un piccolo potenziamento di velocità.",
+    "race.lewis-start.0": "Pronti...",
+    "race.lewis-start.1": "Partenza.....",
+    "race.lewis-start.2": "Via!",
+    "race.winner.player": "Congratulations, {{name}}!#$b#Sorprendi ogni volta! Nessuno qui si sarebbe aspettato questo talento.#$b#Torna pure e ritira il tuo premio.",
+    "race.winner.harvey": "Congratulazioni, Harvey! Niente male per essere la prima volta. Ecco il tuo premio.",
+    "race.winner.emily": "Congratulazioni, Emily! Sarà dura batterti l'anno prossimo. Ecco il tuo premio.",
+    "race.winner.maru": "Congratulazioni, Maru! Sei stata fantastica. Ecco il tuo premio.",
+    "race.winner.shane": "Congratulazioni, Shane! Jas ha fatto il tifo per te tutto il tempo. Ecco il tuo premio.",
+
+    // dialogue //todo
+    "npc.Abigail_spouse": "Do you know why I was afraid to go surfing, @?#$b#Somebody online was talking about a sea monster that lives underneath the water. I know I shouldn't believe everything I read, but it sounded so authentic!",
+    "npc.Leah_spouse": "If you join in on the fun I'll be cheering you on!$h",
+    "npc.Maru_spouse": "Think you can beat me in the surfing competition? How about loser makes dinner tonight?",
+    "npc.Penny_spouse": "Have you decided if you're going to join in on the fun @? I'll be cheering you on! You can do it!$h",
+    "npc.Haley_spouse": "I'm happy to stay on land and watch everyone surf. Emily thinks it would be good for me to try exciting things, but this is a bit much for me.",
+    "npc.Sebastian_spouse": "What do you think is under the water? Abigail sent me a post about a sea creature living underneath. Do you think that's true?",
+    "npc.Sam_spouse": "I wanted to participate, but my mom thinks it's best for me not to because of Vincent. She doesn't want him getting any ideas and I can't blame her. He's a wild little bother.",
+    "npc.Alex_spouse": "You don't have to worry about me. I withdrew my entry since Sam couldn't join in. We were gonna see who was the fastest: me or the skateboarder.",
+    "npc.Harvey_spouse": "Please don't get hurt, @. I don't want you colliding into a rock and hitting your head.",
+    "npc.Elliott_spouse": "Sometimes I miss that old, drafty cabin. But our home is much nicer.",
+    "npc.Emily_spouse": "I still try to push Haley to try new things. She always talked about getting out of Pelican Town, but where in the city could she ride some waves?",
+    "npc.Abigail": "Do you plan on participating in the race, @?#$b#I wanted to, but I'm a little afraid of what might be in the water....$3",
+    "npc.Emily": "Haley always wants to try exciting things, but she didn't want to participate in the race.#$b#So I took her place! Best of luck to you @!$h",
+    "npc.Robin": "Lewis asked me to make some surfboards since they were too expensive to import.",
+    "npc.Demetrius": "Did you know Maru surfed? I didn't! This valley is full of secrets, even some that aren't scientific.",
+    "npc.Maru": "Mmm, I'm a little nervous about the surfing competition, but Harvey said he'd participate with me.",
+    "npc.Sebastian": "I could use some adrenaline, but I'll stick to my bike.",
+    "npc.Linus": "I would much rather be swimming in the water than surfing on top of it.",
+    "npc.Pierre": "Take a look at all the surfboards Robin made. I'm honored to sell such fine craftsmanship.",
+    "npc.Caroline": "I always love these types of festivals. It's so nice to be surrounded by friends and food, and it's great to see the kids have fun.",
+    "npc.Alex": "I was going to show off these muscles and race Sam but he backed out last minute.",
+    "npc.George": "I used to surf back in my youth. Went to Oahu and Tavarua if you can believe this old man.",
+    "npc.Evelyn": "Did you know George used to be a surfer back in the day?#$b#I didn't know him when he surfed, but he's shown me pictures of him riding the waves.#$b#He's always been so handsome.$h",
+    "npc.Lewis": "If you haven't already, don't forget to add some fuel to the bonfire.#$b#We want everyone to be warm during the competition.",
+    "npc.Clint": "I've spent most of my life in Pelican Town, @, and I never would have said somebody could surf on these waters.$s",
+    "npc.Penny": "I'm looking forward to the surfing competition later! Do you think I should start preparing for next year, @?",
+    "npc.Pam": "We've never had a festival like this in the valley before you got here, @. No way Lewis thought up this on his own.",
+    "npc.Haley": "Emily kept saying how I should try out surfing but I don't want my hair getting ruined.#$b#A swim cap? No! That would look horrible.$a",
+    "npc.Jodi": "I managed to talk the boys out of surfing this year.#$b#Sam's a natural because of his skateboarding, but I don't want him hurting himself on a rock or getting caught up in a net.#$b#Vincent? He's too young, but maybe when he's older.",
+    "npc.Kent": "Jodi should have let the kids participate this year. They're young. They need to experience more positive things in their lives.",
+    "npc.Marlon": "There isn't a sword or bow on this planet that can damage the waves. Best of luck to you, @.",
+    "npc.Sam": "Alex wanted to race, but I just want to relax. I had the perfect excuse too.",
+    "npc.Leah": "I'm staying on land to get inspiration for my next art piece. Maybe I'll call it Valley Waves.",
+    "npc.Shane": "I'm looking forward to the race later! We have an extra board if you want to participate @.",
+    "npc.Marnie": "Lewis told me that Shane signed up for the race. It was startling at first, but I know he can win.",
+    "npc.Elliott": "I'm not terribly fond of my front lawn being taken over, but this festival is quite fun.#$b#Perhaps I'll practice balancing on a surfboard in one of the tide pools.",
+    "npc.Gus": "I always love getting to spend a day out of the saloon. This festival is going to be great.$h",
+    "npc.Dwarf": "On the surface, people aren't afraid of water. They ride it. But down here? The water rushes in through the cracks.",
+    "npc.Wizard": "Do you require an arcane charm to improve your luck in the competition?",
+    "npc.Harvey": "*gulp* Why did I agree to try this out? I've never been surfing before.$s",
+    "npc.Sandy": "There's a festival happening! I'm so excited!",
+    "npc.Jas": "Shane's gonna win the surfing competition!$h",
+    "npc.Vincent": "Mom said I'm not old enough to go surfing.$s",
+    "npc.Willy": "Sometimes I can hear the waves crashing against the dock. I hope the kids know what they're doing. The sea, she can be a rough one.",
+
+
+    /*********
+    ** Map text
+    *********/
+    "ui.laps": "Giri: {{laps}}/2",
+    "ui.ranking": "Posizione",
+    "ui.wood": "Aggiungi della legna al falò",
+    "dialog.wood": "Hai aggiunto 50 legna nel falò.",
+    "dialog.shorts": "...Che strano. Come mai il fuoco è diventato viola?",
+    "dialog.prize-money": "Hai ricevuto 1500g.",
+    "item.boost": "Potenziamento Stardrop",
+    "item.homing-projectile": "Proiettile Pesce Palla",
+    "item.first-place-projectile": "Nuvola Segugio",
+    "item.invincibility": "Potere Junimo",
+    "secret.text": "Sul cartello c'è scritto: Want to get ahead, now and in the future? Fa' un'offerta.",
+    "secret.yes": "Lanci 100,000g nella scatola?",
+    "secret.no": "Esci",
+    "secret.broke": "Costa troppo.",
+    "secret.purchased": "Per qualche motivo, ti senti diverso.",
+
+
+    /*********
+    ** Craftable items //todo
+    *********/
+    "craftables.surfboard-brown.name": "Brown Surfboard (Scarecrow)",
+    "craftables.surfboard-brown.description": "A brown surfboard that also functions as a scarecrow.",
+
+    "craftables.surfboard-cool.name": "Cool Surfboard (Scarecrow)",
+    "craftables.surfboard-cool.description": "A surfboard with a cool, bright green pattern on it that also functions as a scarecrow.",
+
+    "craftables.surfboard-hibiscus.name": "Hibiscus Surfboard (Scarecrow)",
+    "craftables.surfboard-hibiscus.description": "A pink and yellow surfboard with hibiscus on it that also functions as a scarecrow.",
+
+    "craftables.surfboard-red.name": "Red Surfboard (Scarecrow)",
+    "craftables.surfboard-red.description": "A red surfboard that also functions as a scarecrow.",
+
+    "craftables.surfboard-stripe.name": "Stripe Surfboard (Scarecrow)",
+    "craftables.surfboard-stripe.description": "A blue stiped surfboard that also functions as a scarecrow.",
+
+    "craftables.surfboard-white.name": "White Surfboard (Scarecrow)",
+    "craftables.surfboard-white.description": "A white surfboard that also functions as a scarecrow.",
+
+    "craftables.surfing-trophy.name": "Surfing Trophy",
+    "craftables.surfing-trophy.description": "A trophy for winning the surfing festival.",
+
+
+    /*********
+    ** Hat items //todo
+    *********/
+    "hats.snorkel-mask-black.name": "Black Snorkel Mask",
+    "hats.snorkel-mask-black.description": "A snorkel mask - serves no other purpose than decorative.",
+
+    "hats.snorkel-mask-blue.name": "Blue Snorkel Mask",
+    "hats.snorkel-mask-blue.description": "A snorkel mask - serves no other purpose than decorative.",
+
+    "hats.snorkel-mask-green.name": "Green Snorkel Mask",
+    "hats.snorkel-mask-green.description": "A snorkel mask - serves no other purpose than decorative.",
+
+    "hats.snorkel-mask-orange.name": "Orange Snorkel Mask",
+    "hats.snorkel-mask-orange.description": "A snorkel mask - serves no other purpose than decorative.",
+
+    "hats.snorkel-mask-pink.name": "Pink Snorkel Mask",
+    "hats.snorkel-mask-pink.description": "A snorkel mask - serves no other purpose than decorative.",
+
+    "hats.snorkel-mask-red.name": "Red Snorkel Mask",
+    "hats.snorkel-mask-red.description": "A snorkel mask - serves no other purpose than decorative.",
+
+
+    /*********
+    ** Object items
+    *********/
+    "items.cheap-amulet.name": "Amuleto Economico?",
+    "items.cheap-amulet.description": "Ha un'aria davvero strana. Chissà perchè sia così economico."
+}
